@@ -1,1 +1,1 @@
-# MeityPoject
+# Self-Paced-Learning-System
